@@ -82,7 +82,7 @@ export default {
     },
   },
   axios: {
-    baseURL: "https://localhost:44355/",
+    baseURL: "https://company-a-app.azurewebsites.net/",
   },
   typescript: {
     typeCheck: true,
